@@ -1,2 +1,4 @@
 name: Web Programming
 markdown: kramdown
+
+premalink: /blog/:year/:month/:day/:title
