@@ -1,4 +1,3 @@
 # AbhinavBhudarapu.github.io
 
-About the repository
-Repository for the lab 1 F28ED
+About the repository for the lab 1 F28ED
